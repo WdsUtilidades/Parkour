@@ -1,5 +1,5 @@
 #Como parece?
 
-![screenshot](readme/f.png)
+![screenshot](readme/screenshot2.png)
 
 # Instalação
