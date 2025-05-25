@@ -2,6 +2,6 @@
 
 ```#FREEFIREA6907D64CC5B120F7D98B607F8C60EF02950```
 
-![screenshot](readme/#FREEFIREA6907D64CC5B120F7D98B607F8C60EF02950.png)
+![screenshot](Imagens/Screenshot_2025.05.25_12.20.01.526.png)
 
 ----------------------------------------------------------------------------
